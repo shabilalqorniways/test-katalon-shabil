@@ -36,7 +36,7 @@ def responseText = response.getResponseText()
 def json = new JsonSlurper().parseText(responseText)
 
 // Ambil user pertama dari array data
-def firstUser = json.data[0]
+def firstUser = json.data[3]
 
 // Ambil ID dan email user pertama
 def firstUserId = firstUser.id
