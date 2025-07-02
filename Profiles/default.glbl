@@ -19,4 +19,9 @@
       <initValue>'reqres-free-v1 '</initValue>
       <name>reqresApiKey</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>registeredUserId</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

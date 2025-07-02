@@ -42,6 +42,8 @@ def firstUser = json.data[0]
 def firstUserId = firstUser.id
 def firstUserEmail = firstUser.email
 
+GlobalVariable.registeredUserId = firstUserId
+
 // Tampilkan ke log
 KeywordUtil.logInfo("First User ID: " + firstUserId)
 KeywordUtil.logInfo("First User Email: " + firstUserEmail)
