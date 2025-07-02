@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReqresIn_TC_002_GetSingleUser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e97a58b-e8f6-4fca-a7b6-28ce704ec578</testCaseGuid>
+</TestCaseEntity>

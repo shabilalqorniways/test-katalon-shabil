@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReqresIn_TC_004_PostRegisterSuccessful</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>62158fcc-5b01-4100-ab84-d5586bd7be7f</testCaseGuid>
+</TestCaseEntity>

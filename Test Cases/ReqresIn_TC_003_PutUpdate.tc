@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReqresIn_TC_003_PutUpdate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>040fa678-e7a8-4124-80e1-12f0d50cbe46</testCaseGuid>
+</TestCaseEntity>
